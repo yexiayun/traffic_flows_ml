@@ -53,3 +53,8 @@
 
 ### VSCode & Anaconda 配置
 https://www.youtube.com/watch?v=0Hhqf8L-b_0
+
+### 李宏毅2021春季教程
+- 视频课程质量高，注重实践部分
+- 作业代码质量高，有参考性
+https://github.com/Fafa-DL/Lhy_Machine_Learning
