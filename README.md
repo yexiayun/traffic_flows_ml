@@ -58,3 +58,6 @@ https://www.youtube.com/watch?v=0Hhqf8L-b_0
 - 视频课程质量高，注重实践部分
 - 作业代码质量高，有参考性
 https://github.com/Fafa-DL/Lhy_Machine_Learning
+
+### PyTorch 中的 ModuleList 和 Sequential: 区别和使用场景
+- https://zhuanlan.zhihu.com/p/64990232

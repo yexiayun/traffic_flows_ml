@@ -2,7 +2,7 @@ from email import message
 import torch
 import pandas as pd
 import matplotlib.pyplot as plt
-from torch import nn
+from torch import ne, nn
 from torch.autograd import Variable
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
