@@ -197,8 +197,9 @@ class CashRegisterViewController: BaseViewController {
     pointsRedeemManager = MallPointRedeemManager(account: account)
     orderManager.cartItems = cartItems
     setUpUI()
-    downloadBaseData()
     setUpEvents()
+    downloadBaseData()
+    setUpDefaultData()
     setUpRx()
   }
   
