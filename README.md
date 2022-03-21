@@ -61,3 +61,9 @@ https://github.com/Fafa-DL/Lhy_Machine_Learning
 
 ### PyTorch 中的 ModuleList 和 Sequential: 区别和使用场景
 - https://zhuanlan.zhihu.com/p/64990232
+
+### 训练集、验证集、测试集
+- https://zhuanlan.zhihu.com/p/48976706
+
+### contiguous
+- https://zhuanlan.zhihu.com/p/64551412
